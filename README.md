@@ -1,6 +1,6 @@
 # ArrayClasswork
 
-This is a assignment about array's I had to do in class
+This is just a practice i had to do about array's in class
 
 ## Getting Started
 
